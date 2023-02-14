@@ -1,0 +1,25 @@
+﻿@model CardModel
+<div class="row">
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<form asp-method="post" asp-action="ShuffleCards">
+        <input type="submit">
+    </form>
+
+<h1>Deck of Cards</h1>
+    @{       
+        foreach (Card c in Model.cards)
+    {
+        <div class="col-2">
+        <p>@c.value @c.suit</p> 
+        <img src="@c.image"/>   
+        
+        </div>
+        
+    }
+    
+}
+</div>
+

@@ -1,0 +1,33 @@
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\appsettings.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.staticwebassets.runtime.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.exe
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.deps.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.runtimeconfig.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.dll
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\DECK OF CARDS API.pdb
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.csproj.AssemblyReference.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.AssemblyInfoInputs.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.AssemblyInfo.cs
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.csproj.CoreCompileInputs.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.RazorAssemblyInfo.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.RazorAssemblyInfo.cs
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets\msbuild.DECK OF CARDS API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets\msbuild.build.DECK OF CARDS API.props
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DECK OF CARDS API.props
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DECK OF CARDS API.props
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\scopedcss\bundle\DECK OF CARDS API.styles.css
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\scopedcss\projectbundle\DECK OF CARDS API.bundle.scp.css
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.dll
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\refint\DECK OF CARDS API.dll
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.pdb
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.genruntimeconfig.cache
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\ref\DECK OF CARDS API.dll
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jstra\source\repos\DECK OF CARDS API\DECK OF CARDS API\obj\Debug\net6.0\DECK OF CARDS API.csproj.CopyComplete
