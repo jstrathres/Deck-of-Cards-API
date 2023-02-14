@@ -19,18 +19,21 @@ namespace DECK_OF_CARDS_API.Controllers
         }
 
         public IActionResult DeckOfCards()
-        {
+        {                                
+            //call API, pass value into View and view cards
             CardModel result = DeckOfCardsDAL.GetCards();
-            if(result.success==false || result.remaining <5)
+            if (result.remaining == 0)
             {
                 DeckOfCardsDAL.ShuffleCards();
                 return View(result);
             }
-            else
-            {
-                return View(result);
-            }
-            //return View(DeckOfCardsDAL.GetCards());
+            return View(result);
+        }
+
+        public IActionResult Shuffle()
+        {
+            DeckOfCardsDAL.ShuffleCards();
+            return RedirectToAction("DeckOfCards");  //string needs to match one of the methods
         }
 
         public IActionResult Privacy()

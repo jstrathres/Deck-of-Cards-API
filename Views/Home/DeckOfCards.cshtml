@@ -1,25 +1,19 @@
 ﻿@model CardModel
-<div class="row">
-@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
 
-<form asp-method="post" asp-action="ShuffleCards">
-        <input type="submit">
-    </form>
+<div class="row">
 
 <h1>Deck of Cards</h1>
-    @{       
-        foreach (Card c in Model.cards)
-    {
+<p>Card Counter: @Model.remaining</p>
+    @{   
+        foreach (Card c in Model.cards) //model.cards because of the array
+        {        
         <div class="col-2">
-        <p>@c.value @c.suit</p> 
-        <img src="@c.image"/>   
-        
-        </div>
-        
-    }
-    
+        <p>@c.value of @c.suit</p> 
+        <img src="@c.image"/>           
+        </div>        
+        }              
 }
 </div>
-
+<br />
+<a asp-action="Shuffle" class="btn btn-primary">Reshuffle Early </a>
+<a asp-action="DeckOfCards" class="btn btn-primary">Draw 5 More </a>

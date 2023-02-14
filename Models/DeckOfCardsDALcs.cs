@@ -7,10 +7,9 @@ namespace DECK_OF_CARDS_API.Models
     {
         public static CardModel GetCards() 
         {
-            //CODE TO BE REUSED FOR LATER-------------------
             //Will need to adjust URL
             //SetUp -copy link
-            string key = "vxa7mc4t575x";
+            string key = "vxa7mc4t575x";           
             string url = $"https://deckofcardsapi.com/api/deck/{key}/draw/?count=5";
 
 
@@ -29,12 +28,16 @@ namespace DECK_OF_CARDS_API.Models
             CardModel result = JsonConvert.DeserializeObject<CardModel>(JSON);
             return result;
         }
-        public void ShuffleCards()
+        public static void ShuffleCards()
         {
-            string url =$"https://deckofcardsapi.com/api/deck/vxa7mc4t575x/shuffle/";
+            //setup from Shuffle link, same code
+            string key = "vxa7mc4t575x";
+            string url = $"https://deckofcardsapi.com/api/deck/{key}/shuffle/";
 
+            //request
             HttpWebRequest request = WebRequest.CreateHttp(url);
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                        
         }
     }
 }
